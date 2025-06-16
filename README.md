@@ -1,4 +1,4 @@
-# 🚨 DEF CON is cancelled
+# 🚨 DEF CON 33 is cancelled
 
 DEF CON 33 Canceled After Entire Hacker Community Gets Trapped in Microsoft Teams Meeting
 
